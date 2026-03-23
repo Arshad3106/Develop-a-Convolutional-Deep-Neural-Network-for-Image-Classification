@@ -13,10 +13,9 @@ he problem is to design and develop a Convolutional Deep Neural Network (CNN) th
 
 
 ## Neural Network Model
-Include the neural network model diagram.
 
 
-<img width="2304" height="1042" alt="image" src="https://github.com/user-attachments/assets/e6d96ef6-77b1-47b5-b7a9-c60ef9dd91ea" />
+<img width="998" height="698" alt="image" src="https://github.com/user-attachments/assets/1644c565-424d-428c-975e-a8337ead2c39" />
 
 
 ## DESIGN STEPS
